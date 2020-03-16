@@ -1,0 +1,33 @@
+{
+  "name": "demo-app",
+  "version": "1.0.0",
+  "description": "study js and develop demo-app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charbori/demo-app.git"
+  },
+  "author": "jaehyeok",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/charbori/demo-app/issues"
+  },
+  "homepage": "https://github.com/charbori/demo-app#readme",
+  "dependencies": {
+    "babel": "^6.23.0",
+    "express": "^4.17.1",
+    "gulp": "^4.0.2",
+    "save": "^2.4.0",
+    "underscore": "^1.9.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.8.7",
+    "@babel/preset-env": "^7.8.7",
+    "@babel/register": "^7.8.6",
+    "gulp-babel": "^8.0.0-beta.2",
+    "gulp-less": "^4.0.1"
+  }
+}
